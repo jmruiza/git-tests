@@ -1,1 +1,4 @@
 src/secret.*
+bin/
+node_modules/
+.scripts/
