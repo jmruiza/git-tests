@@ -1,4 +1,7 @@
+# This files and directories will be ignored!!
 src/secret.*
 bin/
 node_modules/
 .scripts/
+binary/
+*.data
