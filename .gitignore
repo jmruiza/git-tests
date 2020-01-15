@@ -1,1 +1,4 @@
+# This files and directories will be ignored!!
 src/secret.*
+binary/
+*.data
